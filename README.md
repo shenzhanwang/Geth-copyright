@@ -86,7 +86,7 @@ mysql -u root -p < copyright.sql
 ```
 
 ### 3. Configure Ethereum Network
-Start the Hardhat自带的以太坊测试节点，并监听8545端口：
+Start the Hardhat built-in Ethereum test node and listen on port 8545：
 ```bash
 npx hardhat node
 ```
